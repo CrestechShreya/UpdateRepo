@@ -16,5 +16,21 @@
       <IsDeleted>false</IsDeleted>
       <ListValues />
     </GlobalVariable>
+    <GlobalVariable>
+      <Name>TypeSecureText</Name>
+      <Value xsi:type="xsd:string">shreya</Value>
+      <DataType_ENUM>String</DataType_ENUM>
+      <ExternallyUpdatable>true</ExternallyUpdatable>
+      <IsDeleted>false</IsDeleted>
+      <ListValues />
+    </GlobalVariable>
+    <GlobalVariable>
+      <Name>URL</Name>
+      <Value xsi:type="xsd:string">http://sstsinc.com/</Value>
+      <DataType_ENUM>String</DataType_ENUM>
+      <ExternallyUpdatable>true</ExternallyUpdatable>
+      <IsDeleted>false</IsDeleted>
+      <ListValues />
+    </GlobalVariable>
   </GlobalVarables>
 </GlobalVariableSchema>
