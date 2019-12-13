@@ -1,0 +1,1631 @@
+<?xml version="1.0"?>
+<ObjectRepositorySchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <ORObjects>
+    <ORObject>
+      <OpKeyType>HTML PAGE</OpKeyType>
+      <Position>10</Position>
+      <UseSmartIdentification>false</UseSmartIdentification>
+      <IsUpdatable>false</IsUpdatable>
+      <ObjectProperties>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>10</Position>
+          <Value>http://sstsinc.com/</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>src</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>20</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>index</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>30</Position>
+          <Value>html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>tag</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>40</Position>
+          <Value>HTML PAGE</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>type</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>50</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>titleindex</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>60</Position>
+          <Value>Smart Software Testing Solutions</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>title</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>70</Position>
+          <Value>http://sstsinc.com/</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>url</PropertyName>
+        </ObjectProperty>
+      </ObjectProperties>
+      <ChildObjects>
+        <ORObject>
+          <OpKeyType>Link</OpKeyType>
+          <Position>10</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>Home</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>innertext</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>Home</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>textContent</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>A</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>index.html</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>href</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>Home</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>2</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>//div[@id='navbar-collapse']/ul/li[1]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//li[1]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>div#navbar-collapse &gt; ul &gt; li:first-of-type &gt; a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>File Store\d3df8bca-05c3-4aac-8bb3-9a47c2ead1d1</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>Home</Name>
+        </ORObject>
+      </ChildObjects>
+      <Name>Smart Software Testing Solutions</Name>
+    </ORObject>
+    <ORObject>
+      <OpKeyType>HTML PAGE</OpKeyType>
+      <Position>20</Position>
+      <UseSmartIdentification>false</UseSmartIdentification>
+      <IsUpdatable>false</IsUpdatable>
+      <ObjectProperties>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>10</Position>
+          <Value>http://sstsinc.com/index.html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>src</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>20</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>index</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>30</Position>
+          <Value>html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>tag</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>40</Position>
+          <Value>HTML PAGE</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>type</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>50</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>titleindex</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>60</Position>
+          <Value>Smart Software Testing Solutions</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>title</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>70</Position>
+          <Value>http://sstsinc.com/index.html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>url</PropertyName>
+        </ObjectProperty>
+      </ObjectProperties>
+      <ChildObjects>
+        <ORObject>
+          <OpKeyType>Link</OpKeyType>
+          <Position>10</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>Company</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>innertext</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>Company</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>textContent</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>A</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>Company.html</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>href</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>Company</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>3</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>//div[@id='navbar-collapse']/ul/li[2]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//li[2]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>div#navbar-collapse &gt; ul &gt; li:nth-of-type(2) &gt; a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>File Store\2dfaa6a0-6179-4a2d-84d6-8b8ffac5ea1a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>Company</Name>
+        </ORObject>
+      </ChildObjects>
+      <Name>Smart Software Testing Solutions(1)</Name>
+    </ORObject>
+    <ORObject>
+      <OpKeyType>HTML PAGE</OpKeyType>
+      <Position>30</Position>
+      <UseSmartIdentification>false</UseSmartIdentification>
+      <IsUpdatable>false</IsUpdatable>
+      <ObjectProperties>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>10</Position>
+          <Value>http://sstsinc.com/Company.html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>src</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>20</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>index</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>30</Position>
+          <Value>html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>tag</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>40</Position>
+          <Value>HTML PAGE</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>type</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>50</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>titleindex</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>60</Position>
+          <Value>Smart Software Testing Solutions</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>title</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>70</Position>
+          <Value>http://sstsinc.com/Company.html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>url</PropertyName>
+        </ObjectProperty>
+      </ObjectProperties>
+      <ChildObjects>
+        <ORObject>
+          <OpKeyType>Link</OpKeyType>
+          <Position>10</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>Product</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>innertext</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>Product</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>textContent</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>A</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>Product.html</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>href</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>Product</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>4</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>//div[@id='navbar-collapse']/ul/li[3]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//li[3]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>div#navbar-collapse &gt; ul &gt; li:nth-of-type(3) &gt; a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>File Store\e66aeecd-e2fe-4f7b-bb54-1f2b123face0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>Product</Name>
+        </ORObject>
+      </ChildObjects>
+      <Name>Smart Software Testing Solutions(2)</Name>
+    </ORObject>
+    <ORObject>
+      <OpKeyType>HTML PAGE</OpKeyType>
+      <Position>40</Position>
+      <UseSmartIdentification>false</UseSmartIdentification>
+      <IsUpdatable>false</IsUpdatable>
+      <ObjectProperties>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>10</Position>
+          <Value>http://sstsinc.com/Product.html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>src</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>20</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>index</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>30</Position>
+          <Value>html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>tag</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>40</Position>
+          <Value>HTML PAGE</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>type</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>50</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>titleindex</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>60</Position>
+          <Value>Smart Software Testing Solutions</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>title</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>70</Position>
+          <Value>http://sstsinc.com/Product.html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>url</PropertyName>
+        </ObjectProperty>
+      </ObjectProperties>
+      <ChildObjects>
+        <ORObject>
+          <OpKeyType>Link</OpKeyType>
+          <Position>10</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>News</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>innertext</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>News</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>textContent</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>A</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>News.html</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>href</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>News</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>5</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>//div[@id='navbar-collapse']/ul/li[4]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//li[4]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>div#navbar-collapse &gt; ul &gt; li:nth-of-type(4) &gt; a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>File Store\9d4c4e29-26e7-4409-9808-8517d67cfe58</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>News</Name>
+        </ORObject>
+      </ChildObjects>
+      <Name>Smart Software Testing Solutions(3)</Name>
+    </ORObject>
+    <ORObject>
+      <OpKeyType>HTML PAGE</OpKeyType>
+      <Position>50</Position>
+      <UseSmartIdentification>false</UseSmartIdentification>
+      <IsUpdatable>false</IsUpdatable>
+      <ObjectProperties>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>10</Position>
+          <Value>http://sstsinc.com/News.html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>src</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>20</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>index</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>30</Position>
+          <Value>html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>tag</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>40</Position>
+          <Value>HTML PAGE</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>type</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>50</Position>
+          <Value>1</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>titleindex</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>60</Position>
+          <Value>Smart Software Testing Solutions</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>title</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>70</Position>
+          <Value>http://sstsinc.com/News.html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>url</PropertyName>
+        </ObjectProperty>
+      </ObjectProperties>
+      <ChildObjects>
+        <ORObject>
+          <OpKeyType>Link</OpKeyType>
+          <Position>10</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>Contacts</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>innertext</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>Contacts</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>textContent</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>A</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>Contact.php</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>href</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>Contacts</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>6</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>//div[@id='navbar-collapse']/ul/li[5]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//li[5]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>div#navbar-collapse &gt; ul &gt; li:nth-of-type(5) &gt; a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>File Store\fd4f5766-12f5-4ade-9ca8-f53481c8a7b3</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>Contacts</Name>
+        </ORObject>
+      </ChildObjects>
+      <Name>Smart Software Testing Solutions(4)</Name>
+    </ORObject>
+    <ORObject>
+      <OpKeyType>HTML PAGE</OpKeyType>
+      <Position>60</Position>
+      <UseSmartIdentification>false</UseSmartIdentification>
+      <IsUpdatable>false</IsUpdatable>
+      <ObjectProperties>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>10</Position>
+          <Value>http://sstsinc.com/Contact.php</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>src</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>20</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>index</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>30</Position>
+          <Value>html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>tag</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>40</Position>
+          <Value>HTML PAGE</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>type</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>50</Position>
+          <Value>1</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>titleindex</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>60</Position>
+          <Value>Smart Software Testing Solutions</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>title</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>70</Position>
+          <Value>http://sstsinc.com/Contact.php</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>url</PropertyName>
+        </ObjectProperty>
+      </ObjectProperties>
+      <ChildObjects>
+        <ORObject>
+          <OpKeyType>Link</OpKeyType>
+          <Position>10</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>Careers</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>innertext</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>Careers</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>textContent</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>A</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>#on-map</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>href</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>Careers</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>8</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>//footer[@id='contact']/div/ul/li[2]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//footer/div/ul/li[2]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>footer#contact &gt; div &gt; ul &gt; li:nth-of-type(2) &gt; a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>File Store\47237805-54e2-423c-989d-56c80b0a65eb</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>Careers</Name>
+        </ORObject>
+        <ORObject>
+          <OpKeyType>Text Field</OpKeyType>
+          <Position>20</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>name2</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>name</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>INPUT</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>name2</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>id</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>form-control</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>class</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>text</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>input-type</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>name2</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>4</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>4</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//form[@id='career-form']/div[1]/input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>//input[@id='name2']</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:attributes</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>//div[3]/div[2]/div/form/div[1]/input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>120</Position>
+              <Value>form#career-form &gt; div:first-of-type &gt; input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>130</Position>
+              <Value>File Store\e5240769-0854-45dc-866b-eedc9afd253e</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>name2</Name>
+        </ORObject>
+        <ORObject>
+          <OpKeyType>Text Field</OpKeyType>
+          <Position>30</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>Phone</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>name</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>INPUT</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>Phone</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>id</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>form-control</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>class</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>text</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>input-type</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>Phone</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>5</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>5</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//form[@id='career-form']/div[2]/input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>//input[@id='Phone']</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:attributes</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>//div[3]/div[2]/div/form/div[2]/input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>120</Position>
+              <Value>form#career-form &gt; div:nth-of-type(2) &gt; input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>130</Position>
+              <Value>File Store\4297abb3-4935-4965-883a-b33f30892bbe</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>Phone</Name>
+        </ORObject>
+      </ChildObjects>
+      <Name>Smart Software Testing Solutions(5)</Name>
+    </ORObject>
+  </ORObjects>
+</ObjectRepositorySchema>
